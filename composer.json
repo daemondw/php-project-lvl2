@@ -1,0 +1,17 @@
+{
+    "name": "daemond/php-project-lvl2",
+    "description": "Some text",
+    "type": "project",
+    "keywords": ["some info", "more info"],
+    "license": "MIT",
+    "bin": [
+        "bin/gendiff"
+      ],
+    "authors": [
+        {
+            "name": "Dima Antonenko",
+            "email": "daemondw@gmail.com"
+        }
+    ],
+    "require": {}
+}
